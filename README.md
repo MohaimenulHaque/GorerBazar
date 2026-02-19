@@ -99,3 +99,17 @@ GorerBazar/
 ## License
 
 This code is provided for educational purposes.
+
+## Output User View
+![Project Screenshot](./output/1.png)
+![Project Screenshot](./output/2.png)
+![Project Screenshot](./output/3.png)
+![Project Screenshot](./output/4.png)
+![Project Screenshot](./output/5.png)
+![Project Screenshot](./output/6.png)
+
+## Admin Dashboard View
+![Project Screenshot](./output/7.png)
+![Project Screenshot](./output/8.png)
+![Project Screenshot](./output/9.png)
+
